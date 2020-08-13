@@ -1,0 +1,1 @@
+synth-ml-blender synth_data.py --blend-file synth_data.blend --compute-devices 0
