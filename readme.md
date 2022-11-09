@@ -6,6 +6,8 @@ https://gitlab.com/sdurobotics/vision/synth-ml
 and other requirements:  
 ``pip3 install -r requirements.txt``
 
+*(instructions assumes theres a gpu available)*
+
 #### generate synthetic data
 ``./synth_data.sh``
 

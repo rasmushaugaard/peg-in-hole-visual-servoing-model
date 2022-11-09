@@ -1,8 +1,10 @@
+torch
 torchvision
 opencv-python
 typing
 matplotlib
 numpy
 pillow
-fastai
 scipy
+albumentations
+pytorch-lightning
